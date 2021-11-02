@@ -23,3 +23,10 @@ $ docker-compose up --detach
 ```console
 $ docker-compose down --remove-orphans --volumes
 ```
+
+## Exposed ports
+
+Port | Description
+---|---
+[`8080`](http://localhost:8080) | Website
+[`8081`](http://localhost:8081) | Database administration

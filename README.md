@@ -1,6 +1,6 @@
-# esgi-php
+# docker-php-mysql
 
-Template for serving [PHP](https://www.php.net/) pages using [Docker](https://www.docker.com) for the [ESGI](https://www.esgi.fr/).
+Template for serving [PHP](https://www.php.net/) pages using [Docker](https://www.docker.com) with a [MySQL](https://www.mysql.com/fr/) database.
 
 ## Image build
 
